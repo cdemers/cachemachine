@@ -1,0 +1,6 @@
+github.com/cespare/xxhash/v2 v2.1.2 h1:YRXhKfTDauu4ajMg1TPgFO5jnlC2HCbmLXMcTG5cbYE=
+github.com/cespare/xxhash/v2 v2.1.2/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
+github.com/coocood/freecache v1.2.1 h1:/v1CqMq45NFH9mp/Pt142reundeBM0dVUD3osQBeu/U=
+github.com/coocood/freecache v1.2.1/go.mod h1:RBUWa/Cy+OHdfTGFEhEuE1pMCMX51Ncizj7rthiQ3vk=
+gopkg.in/stash.v1 v1.0.0-20171203055659-1129c19e46ec h1:3oTq3xPusWD/RyF6fpYxcWNG9ORhw86tGoZwnUsBjps=
+gopkg.in/stash.v1 v1.0.0-20171203055659-1129c19e46ec/go.mod h1:oseZCqxn5mlqaG/SFzhNopYNN5hVFv5cgwUWx5bnRCQ=
