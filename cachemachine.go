@@ -10,6 +10,9 @@ import (
 	"time"
 )
 
+// Logger is the minimum interface that a logger must implement. It is used
+// to log messages. The default logger is a no-op. The idea here is to decouple
+// the logger from the library, so that the library can be used in contexts.
 type Logger interface {
 	Log(v ...interface{})
 	Logf(format string, v ...interface{})
