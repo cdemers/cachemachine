@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script is used to ensure that the go.mod file is up to date.
+# This script is used to ensure that the code is properly formatted.
 
 set -euo pipefail
 
